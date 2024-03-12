@@ -1,0 +1,15 @@
+{
+  "name": "test-ini",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Volodymyr Kolesnykov <volodymyr@wildwolf.name> (https://wildwolf.name/)",
+  "license": "ISC",
+  "dependencies": {
+    "ini": "^4.1.2"
+  }
+}
